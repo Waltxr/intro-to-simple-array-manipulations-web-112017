@@ -6,7 +6,7 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-def using_poop
+def using_pop
 
 end
 
